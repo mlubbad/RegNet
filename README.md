@@ -8,8 +8,11 @@ are most certainly welcome :)
 [Install the required laibraries and packages]
 
 pip install torchmetrics
+
 pip install pytorch_lightning
+
 pip install tune
+
 pip install ray[tune]
 
 # Run 
